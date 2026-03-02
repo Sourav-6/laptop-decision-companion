@@ -17,4 +17,5 @@
 17. Top front-end frameworks 2026.
 18. Examples of data-driven decision support systems.
 19. logic creation ideas for weighted analysis.
-20. 
+20. top trending courses 2026.
+21. Will cli perform better than web app.

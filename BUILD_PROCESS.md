@@ -184,7 +184,7 @@ criteria.
 
 | Phase \| Change \| Reason \|
 
-\|-------\|--------\|--------\| Laptop Idea \| Implemented basic
+Laptop Idea \| Implemented basic
 weighted scoring \| Validate core logic \| \| Reflection \| Pivoted
 domain \| Increase depth and originality \| \| Input System \| Added
 priority modes \| Improve usability \| \| Explanation \| Built
