@@ -27,8 +27,8 @@ The assignment requires building a **Decision Companion System** that:
 
 Instead of using the provided examples, this project solves:
 
-> Choosing the optimal technical learning path based on career goals
-> and constraints.
+ Choosing the optimal technical learning path based on career goals
+ and constraints.
 
 ------------------------------------------------------------------------
 
