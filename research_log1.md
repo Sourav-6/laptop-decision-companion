@@ -18,4 +18,6 @@
 18. Examples of data-driven decision support systems.
 19. logic creation ideas for weighted analysis.
 20. top trending courses 2026.
-21. Will cli perform better than web app.
+21. cli programs limitations.
+22. Decision support system architecture for education.
+23.

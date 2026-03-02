@@ -1,6 +1,6 @@
 def calculate_score(path, weights, profile):
 
-    # Normalize duration (shorter is better)
+    
     time_score = max(0, 25 - path["duration_weeks"])
 
     difficulty_match = max(

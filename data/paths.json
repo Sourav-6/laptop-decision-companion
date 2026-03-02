@@ -7,7 +7,7 @@
         "job_demand": 5,
         "roi": 5,
         "resources": 5,
-        "description": "Server-side development with Python, databases, and APIs."
+        "description": "Roadmap:\n1. Learn Python fundamentals and OOP\n2. Study Data Structures & Algorithms\n3. Build REST APIs using FastAPI/Flask\n4. Work with SQL & NoSQL databases\n5. Implement authentication (JWT)\n6. Containerize using Docker\n7. Deploy to AWS/Render\n\nTechnologies:\n- Python\n- FastAPI/Flask\n- PostgreSQL/MySQL\n- MongoDB\n- JWT\n- Docker\n- AWS"
     },
     {
         "id": "P2",
@@ -17,7 +17,7 @@
         "job_demand": 5,
         "roi": 5,
         "resources": 4,
-        "description": "Frontend and backend using modern frameworks."
+        "description": "Roadmap:\n1. Learn HTML, CSS, JavaScript\n2. Build UI using React\n3. Develop backend APIs (Node.js/FastAPI)\n4. Connect frontend & backend\n5. Integrate databases\n6. Deploy full applications\n\nTechnologies:\n- HTML\n- CSS\n- JavaScript\n- React\n- Node.js/FastAPI\n- PostgreSQL/MongoDB\n- Vercel/AWS"
     },
     {
         "id": "P3",
@@ -27,7 +27,7 @@
         "job_demand": 4,
         "roi": 4,
         "resources": 4,
-        "description": "Data analysis, ML, and statistics."
+        "description": "Roadmap:\n1. Learn Python for data analysis\n2. Study statistics & probability\n3. Use Pandas & NumPy\n4. Perform data visualization\n5. Build ML models using Scikit-learn\n6. Work on real datasets\n\nTechnologies:\n- Python\n- Pandas\n- NumPy\n- Matplotlib\n- Scikit-learn\n- SQL"
     },
     {
         "id": "P4",
@@ -37,7 +37,7 @@
         "job_demand": 4,
         "roi": 5,
         "resources": 3,
-        "description": "Building and deploying ML systems."
+        "description": "Roadmap:\n1. Master ML fundamentals\n2. Learn Deep Learning frameworks\n3. Optimize & evaluate models\n4. Deploy models via APIs\n5. Understand MLOps practices\n\nTechnologies:\n- Python\n- TensorFlow/PyTorch\n- Scikit-learn\n- Docker\n- FastAPI\n- AWS/GCP"
     },
     {
         "id": "P5",
@@ -47,7 +47,7 @@
         "job_demand": 5,
         "roi": 5,
         "resources": 3,
-        "description": "CI/CD, cloud, automation, monitoring."
+        "description": "Roadmap:\n1. Learn Linux & networking basics\n2. Set up CI/CD pipelines\n3. Containerize using Docker\n4. Orchestrate with Kubernetes\n5. Manage cloud infrastructure\n\nTechnologies:\n- Linux\n- Bash\n- GitHub Actions/Jenkins\n- Docker\n- Kubernetes\n- AWS/Azure"
     },
     {
         "id": "P6",
@@ -57,7 +57,7 @@
         "job_demand": 4,
         "roi": 4,
         "resources": 4,
-        "description": "Android/iOS app development."
+        "description": "Roadmap:\n1. Learn Dart & Flutter or Native Android/iOS\n2. Build UI components\n3. Connect to backend APIs\n4. Use Firebase\n5. Deploy to app stores\n\nTechnologies:\n- Dart/Flutter\n- Kotlin/Swift\n- Firebase\n- REST APIs"
     },
     {
         "id": "P7",
@@ -67,7 +67,7 @@
         "job_demand": 5,
         "roi": 5,
         "resources": 3,
-        "description": "AWS, Azure, GCP infrastructure."
+        "description": "Roadmap:\n1. Understand cloud fundamentals\n2. Deploy infrastructure on AWS/Azure/GCP\n3. Manage containers\n4. Automate with Terraform\n5. Implement security best practices\n\nTechnologies:\n- AWS/Azure/GCP\n- Docker\n- Kubernetes\n- Terraform"
     },
     {
         "id": "P8",
@@ -77,6 +77,6 @@
         "job_demand": 4,
         "roi": 4,
         "resources": 3,
-        "description": "Security monitoring and defense."
+        "description": "Roadmap:\n1. Learn networking fundamentals\n2. Understand vulnerabilities\n3. Practice penetration testing\n4. Monitor security events\n5. Study incident response\n\nTechnologies:\n- Linux\n- Wireshark\n- Metasploit\n- SIEM Tools\n- Python"
     }
 ]
