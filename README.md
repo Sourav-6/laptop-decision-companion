@@ -1,4 +1,4 @@
-# 🚀 Learning Path Decision Companion
+#  Learning Path Decision Companion
 
 A structured **Decision Companion System** that helps users choose the
 most suitable technical learning path based on their goals, constraints,
@@ -9,7 +9,7 @@ provides a ranked, explainable recommendation.
 
 ------------------------------------------------------------------------
 
-## 📌 Problem Understanding
+##  Problem Understanding
 
 The assignment requires building a **Decision Companion System** that:
 
@@ -28,7 +28,7 @@ Instead of using the provided examples, this project solves:
 
 ------------------------------------------------------------------------
 
-## 🎯 Objective
+##  Objective
 
 Help users decide between learning paths such as:
 
@@ -51,7 +51,7 @@ Based on:
 
 ------------------------------------------------------------------------
 
-## 🧠 Assumptions Made
+##  Assumptions Made
 
 1.  Each learning path can be evaluated numerically on predefined
     criteria.
@@ -64,9 +64,9 @@ Based on:
 
 ------------------------------------------------------------------------
 
-## 🏗️ System Design
+##  System Design
 
-### 🔹 Architecture
+###  Architecture
 
     src/
      ├── main.py        → User interaction & flow control
@@ -78,7 +78,7 @@ Based on:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Decision Logic
+##  Decision Logic
 
 ### Step 1: User Profile Input
 
@@ -108,7 +108,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## 🎛️ Features
+##  Features
 
 ✔ Multiple decision options\
 ✔ Weighted criteria\
@@ -120,7 +120,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## 🧩 Design Decisions & Trade-offs
+##  Design Decisions & Trade-offs
 
 ### CLI Instead of Web App
 
@@ -144,7 +144,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## ⚠️ Edge Cases Considered
+##  Edge Cases Considered
 
 -   Invalid menu inputs
 -   Extremely low study hours
@@ -154,7 +154,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1.  Clone the repository
 2.  Navigate to the `src` folder
@@ -167,7 +167,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 -   Web interface (React/Flask)
 -   API-based dynamic dataset
@@ -178,7 +178,7 @@ influenced the outcome
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
-Sourav Vijay\
-B.Tech Computer Science
+Sourav Vijay
+B.Tech Computer Science And Engineering 

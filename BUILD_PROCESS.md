@@ -222,6 +222,4 @@ The build process demonstrates:
 -   Correction of workflow mistakes
 -   Focus on explainable architecture
 
-This aligns with the assignment's emphasis on:
 
-> "How you build" rather than just what you build.
