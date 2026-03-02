@@ -45,10 +45,10 @@ Help users decide between learning paths such as:
 
 Based on:
 
--   Job market demand\
--   Return on investment\
--   Learning difficulty\
--   Time required\
+-   Job market demand<br>
+-   Return on investment<br>
+-   Learning difficulty<br>
+-   Time required<br>
 -   Resource availability
 
 ------------------------------------------------------------------------
